@@ -1,0 +1,17 @@
+Fix size testing.
+training chunk_sizes: [32]
+The output will be saved to  /home/chamois/work/Black sesame application/CenterNet/src/lib/../../exp/ctdet/default
+heads {'hm': 80, 'wh': 2, 'reg': 2}
+Creating model...
+loaded models/ctdet_coco_dla_2x.pth, epoch 230
+Warning: module BasicBlock is treated as a zero-op.
+Warning: module Root is treated as a zero-op.
+Warning: module Tree is treated as a zero-op.
+Warning: module DLA is treated as a zero-op.
+Warning: module DCN is treated as a zero-op.
+Warning: module DeformConv is treated as a zero-op.
+Warning: module IDAUp is treated as a zero-op.
+Warning: module DLAUp is treated as a zero-op.
+Warning: module DLASeg is treated as a zero-op.
+Computational complexity:       5.03 GMac
+Number of parameters:           20.19 M 
